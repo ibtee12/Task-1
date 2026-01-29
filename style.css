@@ -397,3 +397,41 @@
         .ending-messages p {
             margin: 0.5rem 0;
         }
+ /* Footer */
+        footer {
+            padding: 3rem 5%;
+            background: #001931;
+            
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1400px;
+            height: 348px;
+            margin: 0 auto;
+            padding-bottom: 2rem;
+        }
+
+        .social-links p{
+            color: white;
+            font-size: 20px;
+            
+        }
+        .now{
+            display: flex;
+            justify-content: space-between;
+        }       
+
+        .footer-divider {
+            height: 1px;
+            background: rgba(255,255,255,0.1);
+            margin: 2rem 0;
+        }
+
+        .copyright {
+            text-align: center;
+            color: #FAFAFA;
+            font-size: 0.9rem;
+        }
